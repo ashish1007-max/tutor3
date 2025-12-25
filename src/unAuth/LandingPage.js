@@ -11,7 +11,7 @@ import PlaylistCTA from "./components/PlaylistCTA";
 const LandingPage = () => {
 
 
-
+//I understodd this 
 
     
   return (
